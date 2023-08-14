@@ -1,27 +1,4 @@
-# Minimum Viable Express Typescript Application
+# Quiz Application Taks Given By A Client From Upwork
 
-## Quick start 
-
-Start dev server at `http://localhost:3000`. Monitor changes in `src`
-
-```
-npm run dev 
-```
-
-Serve server at `http://localhost:3000`
-
-```
-npn run serve
-```
-
-Test with `jest`
-
-```
-npm run test
-```
-
-Generate test coverage
-
-```
-npm run test:coverage
-```
+The Project aims to create a quiz in which you can add questions and options to those questions.
+In this way, it is easire for users to generate quizes.
